@@ -105,4 +105,12 @@ spring.datasource.username=your_username
 spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
 ```
+---
+
+##Screen-Shots 
+
+![Screenshot (29)](https://github.com/user-attachments/assets/b80f5cc8-e181-4962-bcb1-f71c73b4b9b3)
+
+![Screenshot (27)](https://github.com/user-attachments/assets/991f6498-65f1-46fe-aace-b8b972fc074e)
+
 
